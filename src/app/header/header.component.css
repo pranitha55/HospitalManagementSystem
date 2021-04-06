@@ -1,0 +1,23 @@
+.col-md-6 a{
+    float: right;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+
+
+.navbar{
+    
+    background-color: cadetblue;
+}
+
+.header-right a{
+    float: right;
+    color: black;
+    font-size: 17px;
+    padding: 14px 16px;
+    text-align: center;
+}
